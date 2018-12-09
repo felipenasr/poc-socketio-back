@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/felipenasr/poc-socketio-back/issues"
   },
-  "homepage": "https://github.com/felipenasr/poc-socketio-back#readme"
+  "homepage": "https://github.com/felipenasr/poc-socketio-back#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
 }
